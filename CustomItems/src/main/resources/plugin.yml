@@ -1,0 +1,14 @@
+name: CustomItems
+main: io.github.CosmoCat07.customitems.CustomItems
+version: 0.0.1
+
+name: Echo
+main: io.github.CosmoCat07.customitems.CustomItems
+version: 1.0
+author: CosmoCat19
+commands:
+   basic: echo
+      description: This is a demo command.
+      usage: Repeats text. /echo [text]
+      permission: CustomItems.basic
+      permission-message: You don't have <permission>
